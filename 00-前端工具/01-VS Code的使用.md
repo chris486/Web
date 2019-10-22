@@ -47,6 +47,8 @@ VS Code 的全称是 Visual Studio Code，是一款开源的、免费的、跨�
 
 - VS Code 官网：<https://code.visualstudio.com>
 
+
+
 VS Code 的安装很简单，直接去官网下载安装包，然后双击安装即可。
 
 ![](http://img.smyhvae.com/20190313_1750_2.png)
@@ -491,7 +493,6 @@ GitLens 在 Git 管理上有很多强大的功能，比如：
 安装了插件 `TODO Highlight`之后，按住「Cmd + Shift + P」打开命令面板，输入「Todohighlist」，选择相关的命令，我们就可以看到一个 todoList 的清单。
 
 
-
 ### sftp：文件传输
 
 如果你需要将本地文件通过 ftp 的形式上传到局域网的服务器，可以安装`sftp`这个插件，很好用。在公司会经常用到。
@@ -540,8 +541,6 @@ GitLens 在 Git 管理上有很多强大的功能，比如：
 }
 ```
 
-
-
 ### highlight-icemode：选中相同的代码时，让高亮显示更加明显【荐】
 
 VSCode自带的高亮显示，实在是不够显眼。用插件支持一下吧。
@@ -552,9 +551,6 @@ VSCode自带的高亮显示，实在是不够显眼。用插件支持一下吧�
 
 
 参考链接：[vscode 选中后相同内容高亮插件推荐](https://blog.csdn.net/palmer_kai/article/details/79548164)
-
-
-
 
 ### 颜色主题推荐： SynthWave '84
 
@@ -578,7 +574,7 @@ VSCode自带的高亮显示，实在是不够显眼。用插件支持一下吧�
 
 - 地址：<https://github.com/shanalikhan/code-settings-sync>
 
-- 作用：多台设备之间，同步 VS Code 配置。
+- 作用：多台设备之间，同步 VS Code 配置。通过登录 GitHub 账号来使用这个同步工具。
 
 ### vscode-pigments
 
@@ -603,4 +599,3 @@ css颜色高亮显示。
 ## 参考链接
 
 「Vscode」打造类sublime的高颜值编辑器：https://idoubi.cc/2019/07/08/vscode-sublime-theme/
-
